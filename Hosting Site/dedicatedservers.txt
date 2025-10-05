@@ -1,7 +1,0 @@
-Dedicated Servers
-Features				Plan One			Plan Two			Plan three
-Processor				Intel Xeon E3 (4 Cores)		Intel Xeon E5 (8 Cores)     	Intel Xeon E5 (12 Cores)
-Memory					16 GB DDR4 Memory		32 GB DDR4 Memory		64 GB DDR4 Memory
-Disk Storage				2 x 256 GB SSD 			2 x 512 GB SSD			2 x 1000 GB SSD	
-Bandwidth				10000 GB (10TB)			20000 GB (20TB)			30000 GB (30TB)
-Dedicated IPs				5				10				15
