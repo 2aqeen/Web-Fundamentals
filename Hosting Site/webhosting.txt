@@ -1,0 +1,8 @@
+Shared Hosting Plans
+Features				Plan One	Plan Two	Plan three
+Disk Storage				Unlimited	Unlimited	Unlimited	
+Bandwidth				Unlimited	Unlimited	Unlimited	
+Domains Allowed				1		5		Unlimited	
+Free Dedicated IP		
+Free Privates SSL	
+45 Day Money Back Guarantee

@@ -1,0 +1,7 @@
+VPS Hosting Plans
+Features				Plan One			Plan Two			Plan three
+Processor				Intel Xeon 3040 (Dual Core)	Intel Xeon 3110 (Dual Core)     Intel Xeon 3450 (Quad Core)
+Memory					3 GB DDR Memory			6 GB DDR Memory			12 GB DDR Memory
+Disk Storage				250 GB Hard Drive		2 x 250 GB Hard Drive		2 x 500 GB Hard Drive	
+Bandwidth				5000 GB				7500 GB				10000 GB		
+Dedicated IPs				3				6				8	
